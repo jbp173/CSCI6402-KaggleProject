@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 20 01:49:36 2018
 
-@author: Jordan Peters
+@author: Jordan Peters  
 
 Train and then evaluate a SVM Classifier or Neural Network for author identification between three novels.
 
